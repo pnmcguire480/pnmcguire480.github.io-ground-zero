@@ -10,7 +10,7 @@ The offline narrator keeps the story going anywhere. On HTTPS (GitHub Pages), an
 
 ## Play Now
 
-**[Open Ground Zero](https://your-username.github.io/ground-zero/)** ← update after enabling GitHub Pages
+**[Play Ground Zero](https://pnmcguire480.github.io/ground-zero/)** — no install, no download, just play.
 
 Or download `index.html` and open it directly. Everything works offline.
 
